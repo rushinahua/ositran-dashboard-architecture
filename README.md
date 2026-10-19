@@ -1,8 +1,6 @@
 🔒 Nota de confidencialidad: El código fuente del MVP se mantiene en un repositorio privado por contener lógica sensible, reglas de negocio y de gobernabilidad de modelos. Esta sección expone en detalle la arquitectura de software, el diseño analítico y las decisiones de ingeniería implementadas.
 
-# 📊 Sistema
-
- OSITRAN · Tráfico de pasajeros y recaudación aeroportuaria
+# 📊 Sistema OSITRAN · Tráfico de pasajeros y recaudación aeroportuaria
 
 Un Producto de Datos (Data Product)  que analiza cómo se movieron los pasajeros y cómo se repartió la recaudación regulada entre 2019 y 2026 en los aeropuertos supervisados por OSITRAN. Cruza tráfico mensual, ingresos por concesionaria y rentabilidad por terminal, construida con React y una arquitectura en capas inspirada en Clean Architecture y DDD.
 
